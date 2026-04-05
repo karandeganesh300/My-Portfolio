@@ -1,0 +1,32 @@
+{
+    "name": "Ganesh Karande",
+    "role": "Computer Science Student | Aspiring Software Developer",
+    "about": "I am a Computer Science student who loves solving problems and understanding the logic behind how things work. I enjoy coding, building real-world projects, and continuously learning new technologies to improve my skills every day. Outside of coding, you will often find me playing chess, solving complex puzzles, and diving into logical games that keep my mind sharp!",
+    "skills": [
+        {"name": "C Language", "level": 75},
+        {"name": "Python", "level": 80},
+        {"name": "HTML/CSS", "level": 90},
+        {"name": "JavaScript", "level": 85},
+        {"name": "SQL", "level": 80}
+    ],
+    "projects": [
+        {
+            "title": "EcoScrap (In Progress)",
+            "desc": "A comprehensive e-waste management platform where users can safely sell, buy, and recycle electronic waste materials.",
+            "type": "College Project",
+            "icon": "fa-recycle"
+        },
+        {
+            "title": "Animal Awareness Website", 
+            "desc": "An interactive web platform designed to spread awareness about animal welfare, care, and conservation.",
+            "type": "College Project",
+            "icon": "fa-paw"
+        },
+        {
+            "title": "AI Voice Cloning Platform",
+            "desc": "A machine learning audio application capable of seamlessly converting written text into custom cloned human voices.",
+            "type": "Personal Project",
+            "icon": "fa-microphone-lines"
+        }
+    ]
+}
