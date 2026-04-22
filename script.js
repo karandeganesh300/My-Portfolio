@@ -14,7 +14,7 @@ $(document).ready(function () {
         "role": "Computer Science Student | Aspiring Software Developer",
         "about": "I am a Computer Science student who loves solving problems and understanding the logic behind how things work. I enjoy coding, building real-world projects, and continuously learning new technologies to improve my skills every day. Outside of coding, you will often find me playing chess, solving complex puzzles, and diving into logical games that keep my mind sharp!",
         "skills": [
-            {"name": "C Language", "level": 75},
+            {"name": "C Language", "level": 85},
             {"name": "Python", "level": 80},
             {"name": "HTML/CSS", "level": 90},
             {"name": "JavaScript", "level": 85},
